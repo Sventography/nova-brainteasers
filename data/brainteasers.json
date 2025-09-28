@@ -1,12 +1,7 @@
 [
-  { "id": "echo",      "prompt": "I speak without a mouth and hear without ears. I have nobody, but I come alive with wind. What am I?", "answer": "echo" },
-  { "id": "darkness",  "prompt": "The more of this there is, the less you see. What is it?", "answer": "darkness" },
-  { "id": "piano",     "prompt": "What has many keys but can't open a single lock?", "answer": "piano" },
-  { "id": "towel",     "prompt": "What gets wetter the more it dries?", "answer": "towel" },
-  { "id": "stamp",     "prompt": "What can travel around the world while staying in a corner?", "answer": "stamp" },
-  { "id": "eight",     "prompt": "Turn me on my side and I am everything. Cut me in half and I am nothing. What am I?", "answer": "8" },
-  { "id": "needle",    "prompt": "What has one eye but cannot see?", "answer": "needle" },
-  { "id": "letter-m",  "prompt": "What comes once in a minute, twice in a moment, but never in a thousand years?", "answer": "m" },
-  { "id": "age",       "prompt": "What goes up but never comes down?", "answer": "age" },
-  { "id": "light",     "prompt": "What can fill a room but takes up no space?", "answer": "light" }
+  { "id":"echo","prompt":"I speak without a mouth and hear without ears. I have nobody, but I come alive with wind. What am I?","answer":"echo" },
+  { "id":"darkness","prompt":"The more of this there is, the less you see. What is it?","answer":"darkness" },
+  { "id":"piano","prompt":"What has many keys but can't open a single lock?","answer":"piano" },
+  { "id":"towel","prompt":"What gets wetter the more it dries?","answer":"towel" },
+  { "id":"stamp","prompt":"What can travel around the world while staying in a corner?","answer":"stamp" }
 ]
